@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(147, 203, 254);
+    color: aliceblue;
+    font-size: 40px;
+    position: center;
+    }
+.h1 {
+    font-size: 40px;
+}
+.greek {
+    position: absolute;
+    top: 70%;
+    left:40%;
+}
+.mytho {
+    position: absolute;
+    top: 35%;
+    left:70%;
+}
+.yes {
+    position: absolute;
+top:30%;
+    right:36%;
+    font-size: 90px;
+text-align: center  
+}

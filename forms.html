@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Forms </title>
+        <link rel="stylesheet" href="stylesform.css">
+    </head>
+
+    <body>
+        <h1> <u> Greek Mytholgy Form </u></h1>
+        <form> 
+            <label for="username"> Enter username </label> 
+            <input type="text" id="username" placeholder="username" required>
+            <br></br>
+            <label for="email"> Enter your Email adress </label>
+            <input type="email" id="email" placeholder="username" required>
+            <br></br>
+            <label for="password"> Enter Password </label>
+            <input type="password" id="password" name="password" placeholder="username" required>
+            <br></br>
+            <p> What are you lookng for?</p>
+            <input type="radio" name="age" value="8-25" id="option1">
+            <label for="option1">people</label>
+            <input type="radio" name="age" value="8-25" id="option2">
+            <label for="option2">stories</label>
+            <input type="radio" name="age" value="8-25" id="option3">
+            <label for="option3">wars</label>
+            <br></br>
+            <label for="Security Questions"></label> 
+            <select name="question" id="question">
+                <option vaue="q1"> What is your favorite hero or monster?</option>
+                <option vaue="q2"> What was your favorite myth or story?</option>
+                <option vaue="q3"> What was you favorite god or godess??</option>
+            </select>
+            <br></br>
+            <label for="answer">Answer:</label>
+            <input type="text" id="answer" name="answer" minlength="4" maxlength="10">
+            <br></br>
+            <label for="bio"> Give me your BIO</label><br>
+            <textarea name="bio" id="bio" cols="30" rows="10" placeholder="Tell me about yourself"></textarea>
+            <br></br>
+            <label for="cc">Enter Credit Card Info</label>
+            <input type="text" name="cc" id="cc" min="16" max="18" pattern="[0-9]">
+            <input type="submit" name="submit" id="submit">
+            <p class="yes"><b><u>Please fill this form out. Thank you!</u></b></p>
+
+            <img src="/forms.jpeg" width="900" height="400" class="greek">
+            <img src="/forms 2.jpeg" width="700" height="400" class="mytho">
+        </form>
+
+    </body>
+</html>

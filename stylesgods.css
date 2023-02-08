@@ -1,0 +1,102 @@
+body {
+background-color: rgb(147, 203, 254);
+}
+ h1{
+text-align: center;
+font-size: 200px;
+color: aliceblue;
+}
+.blonde {
+background-color: rgb(122, 245, 175);
+position: absolute;
+top:25%;
+right:28%;
+border:3px solid rgb(255, 255, 255);
+display: inline-block;
+border-radius: 2px;
+font-size: 35px;
+text-align: center;
+color:rgb(249, 249, 242)
+}
+.kiwi {
+position: absolute;
+bottom: 40%;
+left:34%;
+font-size: 50px;
+color: aliceblue;
+}
+.peanut {
+    position: absolute;
+    bottom: 60%;
+    left:10%;
+    font-size: 60px;
+    color: aliceblue;
+    }
+.timbit {
+background-color: rgb(122, 245, 175);
+position: absolute;
+bottom: 15%;
+left:70%;
+font-size: 25px;
+color: aliceblue;
+border:3px solid rgb(255, 255, 255);
+display: inline-block;
+border-radius: 2px;
+font-size: 30px;
+text-align: center;
+}
+.nutella {
+    position: absolute;
+    bottom: 60%;
+    right:10%;
+    font-size: 60px;
+    color: aliceblue;
+    }
+.sand {
+background-color: rgb(122, 245, 175);
+position: absolute;
+bottom: 15%;
+right:75%;
+font-size: 25px;
+color: aliceblue;
+border:3px solid rgb(255, 255, 255);
+display: inline-block;
+border-radius: 2px;
+font-size: 30px;
+text-align: center;
+}
+.ketchup {
+position: absolute;
+bottom: 29%;
+left:43%;
+font-size: 60px;
+color: aliceblue;
+}
+.pink {
+background-color: rgb(122, 245, 175);
+position: absolute;
+top: 70%;
+right:35%;
+font-size: 25px;
+color: aliceblue;
+border:3px solid rgb(255, 255, 255);
+display: inline-block;
+border-radius: 2px;
+font-size: 30px;
+text-align: center;
+}
+.zeus {
+position: absolute;
+top: 37%;
+right:80%;
+}
+.poseiden {
+position: absolute;
+bottom: 43%;
+left:78%;
+}
+.artemis {
+    position: absolute;
+bottom: 8%;
+left:30%;
+}

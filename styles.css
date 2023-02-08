@@ -1,0 +1,111 @@
+* {
+background-color: rgb(147, 203, 254);
+}
+/*This is where I chose the color for my background*/
+.gods2 {
+position: absolute;
+top: 35%;
+left:75%;
+}
+.gods3 {
+position: absolute;
+top: 30%;
+left:60%;
+}
+.gods4 {
+position: absolute;
+top: 25%;
+left:20%;
+}
+.gods5 {
+position: absolute;
+top: 45%;
+left:45%;
+}
+.gods6 {
+position: absolute;
+bottom: 70%;
+right: 70px;
+}
+.gods7 {
+position: absolute;
+bottom: 4.5%;
+left:10%;
+}
+.gods8 {
+position: absolute;
+top: 40%;
+left:32%;
+}
+.links {
+position:relative;
+top:64%;
+left:10%;
+border:3px rgb(255, 255, 255);
+border-radius: 3px;
+font-size: 50px;
+color: rgb(255, 255, 255);
+}
+.no {
+background-color: rgb(122, 245, 175);
+ position: absolute;
+ top:40%;
+ right:2%;
+ border:3px solid rgb(255, 255, 255);
+ display: inline-block;
+ border-radius: 2px;
+ font-size: 32px;
+ text-align: center;
+ color: aliceblue;
+}
+/*This is where I formated my summary of site paragraph and where positioned it.*/
+table {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border-collapse: collapse;
+width: 100%;
+}  
+th {
+border: 2px solid #787373;
+text-align: left;
+padding: 6px;
+}
+.yes {
+position: absolute;
+bottom: 58.5%;
+left:82%;
+font-size: 40px;
+color: aliceblue;
+}
+.donut {
+position: absolute;
+bottom:30%;
+left:40%;
+font-size: 40px;
+color: aliceblue;
+}
+.banana {
+background-color: rgb(122, 245, 175);
+ position: absolute;
+ top:70%;
+ right:2%;
+ border:3px solid rgb(255, 255, 255);
+ color: aliceblue;
+ display: inline-block;
+ border-radius: 6px;
+ font-size: 35px;
+ text-align: center
+
+}
+h1 {
+text-align: center;
+font-size: 200px;
+color: aliceblue;
+}
+/*This is where I formated and ajusted my title*/
+h2 {
+position: absolute;
+left: 55%;
+top:22%;
+font-size: 40px;
+color: aliceblue;
+}
